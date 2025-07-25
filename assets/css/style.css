@@ -1,0 +1,106 @@
+---
+---
+
+/* Base layout */
+body {
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.about-section {
+  background-color: #ffffff;
+  padding: 2.5em 2em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+/* Headings */
+.about-section h2 {
+  font-size: 2.2em;
+  color: #1a1a1a;
+  margin-bottom: 0.3em;
+}
+
+.about-section h3 {
+  margin-top: 2em;
+  font-size: 1.5em;
+  color: #1f4e79;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.3em;
+}
+
+/* Paragraphs and list */
+.about-section p,
+.about-section li {
+  font-size: 1.05em;
+  margin-bottom: 0.8em;
+}
+
+/* Links */
+.about-section a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.about-section a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+.about-section ul {
+  padding-left: 1.5em;
+}
+
+.about-section ol {
+  padding-left: 1.5em;
+}
+
+/* Blockquote */
+.about-section blockquote {
+  background: #f0f4f8;
+  border-left: 5px solid #5c9ded;
+  margin: 2em 0;
+  padding: 1em 1.2em;
+  font-style: italic;
+  color: #333;
+}
+
+/* Image styling */
+.about-section figure {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.about-section figcaption {
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
+  margin-top: 0.5em;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .about-section {
+    padding: 1.5em 1em;
+  }
+
+  .about-section h2 {
+    font-size: 1.7em;
+  }
+
+  .about-section h3 {
+    font-size: 1.3em;
+  }
+
+  .about-section p,
+  .about-section li {
+    font-size: 1em;
+  }
+}
