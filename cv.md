@@ -17,7 +17,7 @@ title: CV
 <section style="margin-bottom: 2em;">
   <h3>🧭 Profile</h3>
   <p>
-    I am a highly motivated graduate in Computer and Network Engineering, with a deep passion for data, artificial intelligence, and impactful digital systems. As a certified AI talent from Laskar AI x Lintasarta, I have contributed to a wide range of projects from educational websites to machine learning pipelines while combining technical precision with human-centered design.
+    I am a highly motivated graduate in Computer and Network Engineering with a strong passion for data, artificial intelligence, and meaningful digital systems. I have contributed to a variety of projects ranging from educational websites to machine learning pipelines, combining technical precision with a human-centered mindset. My work reflects both structured thinking and a deep sensitivity to impact translating complex ideas into systems that serve.
   </p>
 </section>
 
