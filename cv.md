@@ -5,10 +5,10 @@ title: CV
 
 <div style="max-width: 1500px; margin: 0 auto; padding: 0em 1.5em; font-size: 0.9em; line-height: 1.6; font-family: Arial, sans-serif; color: #222">
 
-<h4 style="text-align: center; font-size: 1.8em; margin-bottom: 0.3em;">Tsamarah Muthi'ah Abdullah</h4>
+<h4 style="text-align: center; font-size: 1.8em; margin-bottom: 0.3em;">Tsamarah Muthi'ah Abdullah, S.Tr.,T.</h4>
 <p style="text-align: center; color: #444;">
 📞 +62 8952 6687 697 &nbsp; | &nbsp; 📧 tsamarahmuthiahabdullah@gmail.com<br>
-🔗 <a href="https://www.linkedin.com/in/tsamarah-abdullah-24a25a236/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
+🔗 <a href="https://www.linkedin.com/in/tsamarah-muthi-ah-abdullah-24a25a236/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
 💻 <a href="https://github.com/MuthiahAinun" target="_blank">GitHub</a>
 </p>
 
@@ -17,7 +17,7 @@ title: CV
 <section style="margin-bottom: 2em;">
   <h3>🧭 Profile</h3>
   <p>
-    I am a highly motivated graduate in Computer and Network Engineering with a strong passion for data, artificial intelligence, and meaningful digital systems. I have contributed to a variety of projects ranging from educational websites to machine learning pipelines, combining technical precision with a human-centered mindset. My work reflects both structured thinking and a deep sensitivity to impact translating complex ideas into systems that serve.
+    Computer and Network Engineering Graduate with certification in AI Engineering and experience in Web Development and Data Analysis. Developed machine learning pipelines and educational web systems, applying structured problem-solving to deliver effective solutions. Skilled in Python, data preprocessing, and model optimization with proven ability to translate data into actionable insights. Portfolio projects available on GitHub.
   </p>
 </section>
 
@@ -88,6 +88,8 @@ title: CV
   <h3 style="font-size: 1.2em; border-bottom: 1px solid #ddd; padding-bottom: 0.2em;">📄 Certifications</h3>
   <ul>
     <li><a href="https://drive.google.com/drive/folders/1EXfIcP8dESf3qMpgXZKzzJKaL8_ZvLL2?usp=sharing" target="_blank">Certificate of Competence for Web Programming Development – BNSP</a></li>
+    <li><a href="https://drive.google.com/file/d/1e213J49NVTnJjLvVc6L0nGJ8QzXrkkLO/view" target="_blank">Best Capstone Project – Laskar Ai</a></li>
+    <li><a href="https://drive.google.com/file/d/1t0d1f-v3jTP9Lax-NHYAIidKcFTNvk8a/view" target="_blank">AI Engineer – Laskar Ai</a></li>
     <li><a href="https://drive.google.com/file/d/1XCGVhqHzPOtw-nAQhrcFRdtJXhKxJJKw/view?usp=sharing" target="_blank">Applied Machine Learning – Dicoding</a></li>
     <li><a href="https://drive.google.com/file/d/1KypCUbdwp6-ONqtWHgOhgjFMV1JCH-wk/view?usp=sharing" target="_blank">Learning Applied Data Science – Dicoding</a></li>
     <li><a href="https://drive.google.com/file/d/1uG_E9JHXBd-14EFcDWH8SeRH2P8dZJWV/view?usp=sharing" target="_blank">Building Machine Learning Systems – Dicoding</a></li>
