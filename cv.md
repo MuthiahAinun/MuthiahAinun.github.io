@@ -17,7 +17,7 @@ title: CV
 <section style="margin-bottom: 2em;">
   <h3>🧭 Profile</h3>
   <p>
-    Computer and Network Engineering Graduate with certification in AI Engineering and experience in Web Development and Data Analysis. Developed machine learning pipelines and educational web systems, applying structured problem-solving to deliver effective solutions. Skilled in Python, data preprocessing, and model optimization with proven ability to translate data into actionable insights. Portfolio projects available on GitHub.
+    Computer and Network Engineering graduate and certified AI Engineer with hands-on experience in machine learning pipelines, data analysis, and web development. Skilled in building and deploying AI solutions for NLP, Computer Vision, and recommendation systems, with a strong foundation in problem-solving and scalable system design.
   </p>
 </section>
 
@@ -92,7 +92,8 @@ title: CV
     <li><a href="https://drive.google.com/file/d/1t0d1f-v3jTP9Lax-NHYAIidKcFTNvk8a/view" target="_blank">AI Engineer – Laskar Ai</a></li>
     <li><a href="https://drive.google.com/file/d/1XCGVhqHzPOtw-nAQhrcFRdtJXhKxJJKw/view?usp=sharing" target="_blank">Applied Machine Learning – Dicoding</a></li>
     <li><a href="https://drive.google.com/file/d/1KypCUbdwp6-ONqtWHgOhgjFMV1JCH-wk/view?usp=sharing" target="_blank">Learning Applied Data Science – Dicoding</a></li>
-    <li><a href="https://drive.google.com/file/d/1uG_E9JHXBd-14EFcDWH8SeRH2P8dZJWV/view?usp=sharing" target="_blank">Building Machine Learning Systems – Dicoding</a></li>
+    <li><a href="https://www.dicoding.com/certificates/GRX5JG5JYX0M" target="_blank">Fundamentals of Data Processing – Dicoding</a></li>
+
     <!-- Tambahkan sertifikat lain di sini -->
   </ul>
 </section>
